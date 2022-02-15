@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\mtjoh\\OneDrive\\Skrivbord\\Quicksort_v1\\Quicksort_v1.csproj": {}
+    "C:\\Users\\mtjoh\\OneDrive\\Dokument\\GitHub\\Quicksort_v1\\Quicksort_v1.csproj": {}
   },
   "projects": {
-    "C:\\Users\\mtjoh\\OneDrive\\Skrivbord\\Quicksort_v1\\Quicksort_v1.csproj": {
+    "C:\\Users\\mtjoh\\OneDrive\\Dokument\\GitHub\\Quicksort_v1\\Quicksort_v1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\mtjoh\\OneDrive\\Skrivbord\\Quicksort_v1\\Quicksort_v1.csproj",
+        "projectUniqueName": "C:\\Users\\mtjoh\\OneDrive\\Dokument\\GitHub\\Quicksort_v1\\Quicksort_v1.csproj",
         "projectName": "Quicksort_v1",
-        "projectPath": "C:\\Users\\mtjoh\\OneDrive\\Skrivbord\\Quicksort_v1\\Quicksort_v1.csproj",
+        "projectPath": "C:\\Users\\mtjoh\\OneDrive\\Dokument\\GitHub\\Quicksort_v1\\Quicksort_v1.csproj",
         "packagesPath": "C:\\Users\\mtjoh\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\mtjoh\\OneDrive\\Skrivbord\\Quicksort_v1\\obj\\",
+        "outputPath": "C:\\Users\\mtjoh\\OneDrive\\Dokument\\GitHub\\Quicksort_v1\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\mtjoh\\AppData\\Roaming\\NuGet\\NuGet.Config"
