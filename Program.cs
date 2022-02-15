@@ -29,7 +29,7 @@ namespace Quicksort_v1
             var timer = Stopwatch.StartNew(); // Creates and starts a timer
             Quick_Sort(numberArray, 0, numberArray.Length-1);
 		    foreach (var item in numberArray) {
-                Console.Write(" " + item + " ");
+                Console.Write(item + " ");
             }
             timer.Stop();
 
