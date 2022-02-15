@@ -1,0 +1,16 @@
+C:\Users\mtjoh\OneDrive\Skrivbord\Quicksort_v1\bin\Debug\net5.0\Quicksort_v1.exe
+C:\Users\mtjoh\OneDrive\Skrivbord\Quicksort_v1\bin\Debug\net5.0\Quicksort_v1.deps.json
+C:\Users\mtjoh\OneDrive\Skrivbord\Quicksort_v1\bin\Debug\net5.0\Quicksort_v1.runtimeconfig.json
+C:\Users\mtjoh\OneDrive\Skrivbord\Quicksort_v1\bin\Debug\net5.0\Quicksort_v1.runtimeconfig.dev.json
+C:\Users\mtjoh\OneDrive\Skrivbord\Quicksort_v1\bin\Debug\net5.0\Quicksort_v1.dll
+C:\Users\mtjoh\OneDrive\Skrivbord\Quicksort_v1\bin\Debug\net5.0\ref\Quicksort_v1.dll
+C:\Users\mtjoh\OneDrive\Skrivbord\Quicksort_v1\bin\Debug\net5.0\Quicksort_v1.pdb
+C:\Users\mtjoh\OneDrive\Skrivbord\Quicksort_v1\obj\Debug\net5.0\Quicksort_v1.csproj.AssemblyReference.cache
+C:\Users\mtjoh\OneDrive\Skrivbord\Quicksort_v1\obj\Debug\net5.0\Quicksort_v1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mtjoh\OneDrive\Skrivbord\Quicksort_v1\obj\Debug\net5.0\Quicksort_v1.AssemblyInfoInputs.cache
+C:\Users\mtjoh\OneDrive\Skrivbord\Quicksort_v1\obj\Debug\net5.0\Quicksort_v1.AssemblyInfo.cs
+C:\Users\mtjoh\OneDrive\Skrivbord\Quicksort_v1\obj\Debug\net5.0\Quicksort_v1.csproj.CoreCompileInputs.cache
+C:\Users\mtjoh\OneDrive\Skrivbord\Quicksort_v1\obj\Debug\net5.0\Quicksort_v1.dll
+C:\Users\mtjoh\OneDrive\Skrivbord\Quicksort_v1\obj\Debug\net5.0\ref\Quicksort_v1.dll
+C:\Users\mtjoh\OneDrive\Skrivbord\Quicksort_v1\obj\Debug\net5.0\Quicksort_v1.pdb
+C:\Users\mtjoh\OneDrive\Skrivbord\Quicksort_v1\obj\Debug\net5.0\Quicksort_v1.genruntimeconfig.cache
