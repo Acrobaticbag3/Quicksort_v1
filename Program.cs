@@ -6,7 +6,7 @@ namespace Quicksort_v1
     class Program
     {
         static void Main(string[] args) {
-            int[] numberArray = new int[8000]; // Array with 1000 ints
+            int[] numberArray = new int[4000]; // Array with 1000 ints
             Random intRng = new Random(); // Random number generator
             
 
@@ -15,7 +15,7 @@ namespace Quicksort_v1
             Console.WriteLine("= = = = = = = = = = = = = = = = = = = = = = = = = = = = = = =");
             Console.ReadKey();
 
-            for(int i = 0; i < 8000 ; i++) { // Assigns random values to the ints
+            for(int i = 0; i < 4000 ; i++) { // Assigns random values to the ints
                 numberArray[i] = intRng.Next(1, 1001);
                 Console.Write(numberArray[i] + " ");
             }

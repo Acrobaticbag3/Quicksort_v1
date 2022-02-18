@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\mtjoh\\OneDrive\\Dokument\\GitHub\\Quicksort_v1\\Quicksort_v1.csproj": {}
+    "C:\\Users\\Admin\\Documents\\GitHub\\Quicksort_v1\\Quicksort_v1.csproj": {}
   },
   "projects": {
-    "C:\\Users\\mtjoh\\OneDrive\\Dokument\\GitHub\\Quicksort_v1\\Quicksort_v1.csproj": {
+    "C:\\Users\\Admin\\Documents\\GitHub\\Quicksort_v1\\Quicksort_v1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\mtjoh\\OneDrive\\Dokument\\GitHub\\Quicksort_v1\\Quicksort_v1.csproj",
+        "projectUniqueName": "C:\\Users\\Admin\\Documents\\GitHub\\Quicksort_v1\\Quicksort_v1.csproj",
         "projectName": "Quicksort_v1",
-        "projectPath": "C:\\Users\\mtjoh\\OneDrive\\Dokument\\GitHub\\Quicksort_v1\\Quicksort_v1.csproj",
-        "packagesPath": "C:\\Users\\mtjoh\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\mtjoh\\OneDrive\\Dokument\\GitHub\\Quicksort_v1\\obj\\",
+        "projectPath": "C:\\Users\\Admin\\Documents\\GitHub\\Quicksort_v1\\Quicksort_v1.csproj",
+        "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Admin\\Documents\\GitHub\\Quicksort_v1\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\mtjoh\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net5.0"
@@ -52,7 +52,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.302\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.400\\RuntimeIdentifierGraph.json"
         }
       }
     }
